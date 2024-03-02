@@ -1,0 +1,9 @@
+RENCANA BELAJAR JS
+   - Mulai dengan memahami dasar-dasar JavaScript
+      ^ Tipe data
+      ^ Variabel
+      ^ operator
+      ^ struktur kontrol (if-else, loop)
+      ^ Fungsi
+      ^ objek
+   - 
