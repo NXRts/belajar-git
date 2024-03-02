@@ -6,4 +6,8 @@ RENCANA BELAJAR JS
       ^ struktur kontrol (if-else, loop)
       ^ Fungsi
       ^ objek
-   - 
+
+   - Lanjut mulai belajar asynchronous JavaScript 
+      ^ callback functions
+      ^ promises
+      ^ async/await
