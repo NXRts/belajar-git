@@ -6,6 +6,7 @@ RENCANA BELAJAR JS
       * struktur kontrol (if-else, loop)
       * Fungsi
       * objek
+      * asal nambahin, gk penting kok :)
 
    - Lanjut mulai belajar asynchronous JavaScript 
       * callback functions
